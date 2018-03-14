@@ -84,12 +84,12 @@ export default {
   },
   methods: {
     selectCourse(course){
-      this.currentCourse = `${course}`;
+      this.currentCourse = course ? `${course}` : false;
       this.currentGroup = false;
       console.log(`Course: ${course}`)
     },
     selectGroup(group){
-      this.currentGroup = `${group}`;
+      this.currentGroup = group ? `${group}` : false;
       console.log(`Group: ${group}`)
     }
   },
