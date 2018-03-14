@@ -1,6 +1,6 @@
 {
-  "name": "spbkit-raspisanie",
-  "description": "A Vue.js project",
+  "name": "timeboard",
+  "description": "Доска с расписанием курсов и групп",
   "version": "1.0.0",
   "author": "Michael Belozerskiy <m.belozerskiy@yandex.ru>",
   "license": "MIT",
