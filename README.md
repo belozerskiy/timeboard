@@ -1,8 +1,10 @@
-# spbkit-raspisanie
+# timeboard
 
-> A Vue.js project
+![alt text](https://pp.userapi.com/c840633/v840633497/63e9c/g4TkQst_9E4.jpg "Доска с расписанием")
 
-## Build Setup
+> Доска с расписанием курсов и групп
+
+## Сборка
 
 ``` bash
 # install dependencies
