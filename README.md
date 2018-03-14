@@ -1,8 +1,8 @@
 # timeboard
 
-![alt text](https://pp.userapi.com/c840633/v840633497/63e9c/g4TkQst_9E4.jpg "Доска с расписанием")
-
 > Доска с расписанием курсов и групп
+
+![alt text](https://pp.userapi.com/c840633/v840633497/63e9c/g4TkQst_9E4.jpg "Доска с расписанием")
 
 ## Сборка
 
